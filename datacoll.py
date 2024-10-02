@@ -10,7 +10,7 @@ offset = 20
 imgSize = 300
 counter = 0
 
-folder = "/Users/anushkajha/Documents/GitHub/ASL-Converter/assets/hello"
+folder = "/Users/anushkajha/Documents/GitHub/ASL-Converter/assets/yes"
 
 while True: 
     success, img = cap.read()
